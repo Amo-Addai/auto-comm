@@ -1,0 +1,24 @@
+{
+    "filetypes": [
+        {
+            "type": "json",
+            "types": [".json"]
+        },
+        {
+            "type": "excel",
+            "types": [".xls", ".xlc"]
+        },
+        {
+            "type": "notion",
+            "types": [".?", ".?"]
+        },
+        {
+            "type": "csv",
+            "types": [".csv", ".?"]
+        },
+        {
+            "type": "tdv",
+            "types": [".tsv", ".tdv", ".?"]
+        }
+    ]
+}

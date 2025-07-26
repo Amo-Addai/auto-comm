@@ -1,0 +1,60 @@
+{
+    "email": "",
+    "phone": "",
+    "address": "",
+    "name": "",
+    "company": "",
+    "jobTitle": "",
+    "website": "",
+    "notes": "",
+    "socialMedia": {
+        "linkedin": "",
+        "twitter": "",
+        "facebook": "",
+        "instagram": "",
+        "youtube": ""
+    },
+    "createdAt": "",
+    "updatedAt": "",
+    "tags": [],
+    "customFields": {
+        "field1": "",
+        "field2": "",
+        "field3": ""
+    },
+    "preferences": {
+        "newsletter": false,
+        "notifications": true,
+        "privacy": {
+            "dataSharing": false,
+            "marketingEmails": true
+        }
+    },
+    "status": "active",
+    "id": "",
+    "avatar": "",
+    "lastContacted": "",
+    "source": "manual",
+    "notesHistory": [],
+    "groups": [],
+    "language": "en",
+    "timezone": "UTC",
+    "customData": {
+        "fieldA": "",
+        "fieldB": "",
+        "fieldC": ""
+    },
+    "preferencesHistory": [],
+    "archived": false,
+    "deleted": false,
+    "createdBy": "",
+    "updatedBy": "",
+    "version": 1,
+    "metadata": {
+        "createdAt": "",
+        "updatedAt": "",
+        "createdBy": "",    
+        "updatedBy": "",
+        "version": 1
+    }
+}
