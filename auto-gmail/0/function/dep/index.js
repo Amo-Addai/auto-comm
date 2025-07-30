@@ -3,5 +3,6 @@ import code from './code'
 import dep from './awilix'
 
 export default {
-    dependency: code?.dependency(dep),
+    dependencyManagement: code?.dependency(dep),
+    exampleFunction: code?._
 }

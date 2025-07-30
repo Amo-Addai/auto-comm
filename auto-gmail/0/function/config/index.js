@@ -1,6 +1,7 @@
 
 import env from './env/index'
-import invertedConfig from './invertedConfig'
+import invertedConfig from './config/invertedConfig'
+import sensitiveConfig from './config/sensitiveConfig'
 import schema from './schema/schema'
 let config = {}
 
@@ -11,4 +12,4 @@ Object.keys(env).forEach(key => (
     ))
 ))
 
-export default { config, invertedConfig, schema }
+export default { config, invertedConfig, sensitiveConfig, schema }
